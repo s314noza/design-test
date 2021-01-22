@@ -40,7 +40,6 @@ h1{
         inset 4px 4px 4px rgba(219, 219, 219, 0.2),
         inset -8px -8px 8px rgba(255, 255, 255, 0.1);
 
-    border: 1px solid rgba(255, 255, 255, 0.1);
 
 }
 
@@ -49,8 +48,8 @@ h1{
 }
 
 .btn:hover{
-    box-shadow: 4px 2px 18px #5453572c, -4px -4px 13px rgba(255, 255, 255, 0.767),
-        inset 6px 6px 16px rgba(209, 209, 209, 0.8),
+    box-shadow: 4px 2px 18px #52515511, -4px -4px 13px rgba(255, 255, 255, 0.089),
+        inset 6px 6px 16px rgba(194, 194, 194, 0.8),
         inset -8px -8px 8px rgba(255, 255, 255, 0.3);
 
     transform: translateY(2px);
