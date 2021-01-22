@@ -1,0 +1,53 @@
+body{
+    background-image: url('Marble03_COL_6K.jpg');
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;  
+    font-size: 24;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin: 48px 0;
+    color: #525252;
+}
+.btn-container{
+    display: flex; 
+}
+
+.btn{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: rgba(238, 238, 238, 0.219);
+    color: #6d6d6d;
+    height: 80px;
+    width: 160px;
+    display: flex;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 400ms;
+    font-size: 20px;
+    box-shadow: 7px 7px 15px #c2c1c4, -4px -4px 13px rgb(255, 255, 255);
+    
+}
+//.btn-c{
+    background-color: rgba(221, 221, 221, 0.295);
+    opacity: 50%;
+    background-blend-mode: overlay;
+    height: 80px;
+    width: 160px;
+    display: flex;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 400ms;
+}
